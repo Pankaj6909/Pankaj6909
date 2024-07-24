@@ -10,9 +10,9 @@
 
 🔭 I’m currently a MSc Data Science student at Birkbeck, University of London.
 
-👨‍💻 I’m currently working on Machine Learning, Big Data and cloud.  
+👨‍💻 I’m currently working on Machine Learning, Big Data and Cloud Computing.  
 
-📊 I’m looking to collaborate on **Cloud and Data Pipeline Projects**
+📊 I’m looking to collaborate on projects involving **Cloud Technologies and Data Pipelines**
   
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
